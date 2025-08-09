@@ -1,0 +1,10 @@
+
+<suite name="VoltUIautomationFramework" parallel="classes" thread-count="1">
+    <test name="UI Automation Tests">
+        <classes>
+            <!-- Replace the package names and class names with your actual test classes -->
+            <class name="tests.Checkeligibilityin15sscreentest"/>
+            <class name="tests.Contactuspagetest"/>
+        </classes>
+    </test>
+</suite>

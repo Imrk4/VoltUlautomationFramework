@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-10T00:56:47 IST" name="VoltUIautomationFramework" finished-at="2025-08-10T00:57:10 IST" duration-ms="23028">
+    <groups>
+    </groups>
+    <test started-at="2025-08-10T00:56:47 IST" name="UI Automation Tests" finished-at="2025-08-10T00:57:10 IST" duration-ms="23028">
+      <class name="tests.Checkeligibilityin15sscreentest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.Checkeligibilityin15sscreentest@66f57048]" started-at="2025-08-10T00:56:47 IST" name="Setup" finished-at="2025-08-10T00:57:05 IST" duration-ms="18350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Contactuspage()[pri:0, instance:tests.Checkeligibilityin15sscreentest@66f57048]" started-at="2025-08-10T00:57:05 IST" name="Contactuspage" finished-at="2025-08-10T00:57:05 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contactuspage -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.Checkeligibilityin15sscreentest@66f57048]" started-at="2025-08-10T00:57:05 IST" name="Setup" finished-at="2025-08-10T00:57:06 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Testwithvaliddetails()[pri:0, instance:tests.Checkeligibilityin15sscreentest@66f57048]" started-at="2025-08-10T00:57:06 IST" name="Testwithvaliddetails" finished-at="2025-08-10T00:57:08 IST" duration-ms="1657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testwithvaliddetails -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.Checkeligibilityin15sscreentest@66f57048]" started-at="2025-08-10T00:57:10 IST" name="afterTest" finished-at="2025-08-10T00:57:10 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.Checkeligibilityin15sscreentest -->
+      <class name="tests.Contactuspagetest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.Contactuspagetest@12aba8be]" started-at="2025-08-10T00:57:08 IST" name="beforeMethod" finished-at="2025-08-10T00:57:08 IST" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="contactustest()[pri:0, instance:tests.Contactuspagetest@12aba8be]" started-at="2025-08-10T00:57:08 IST" name="contactustest" finished-at="2025-08-10T00:57:10 IST" duration-ms="1125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactustest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.Contactuspagetest@12aba8be]" started-at="2025-08-10T00:57:10 IST" name="afterMethod" finished-at="2025-08-10T00:57:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.Contactuspagetest -->
+    </test> <!-- UI Automation Tests -->
+  </suite> <!-- VoltUIautomationFramework -->
+</testng-results>
