@@ -50,16 +50,6 @@ public class Checkeligibilityin15sscreentest {
 	  
   }
   
-  @Test
-  public void Contactuspage()
-  {
-	  
-	  
-	  
-	  
-	  
-  }
-  
   @Test (priority = 1, enabled = false)
   public void Testwithinvaliddata() throws InterruptedException
   {
